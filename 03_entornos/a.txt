@@ -1,0 +1,5 @@
+npm install config
+
+
+para la depuracion
+npm i debug

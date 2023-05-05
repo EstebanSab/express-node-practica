@@ -1,0 +1,8 @@
+para hacer un post json
+_Body
+_raw
+_JSON >
+
+{
+    "nombre":"a"
+}
